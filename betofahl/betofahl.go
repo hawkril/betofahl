@@ -34,7 +34,7 @@ func init() {
 		os.Exit(0)
 	}()
 }
-godoc.org/github.com/hawkril/betofahl/betofahl
+//godoc.org/github.com/hawkril/betofahl/betofahl
 func Defer() {
 	// Randomize choice
 	r := rand.New(rand.NewSource(time.Now().UnixNano()))
