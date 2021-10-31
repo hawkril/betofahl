@@ -11,7 +11,7 @@ import (
 )
 
 var (
-	Texts = []string{"Schokodrops", "Gummibärchen", "Maoam", "Schokolade", "Lolli", "Colafläschchen"}
+	Texts = []string{"Schokodrops", "Gummibärchen", "Maoam", "Schokolade", "Lolli", "Colafläschchen", "Marshmallows", "Schokolinsen", "Saure Zungen"}
 	c = make(chan os.Signal)
 )
 
